@@ -1,4 +1,5 @@
-* {
+* 
+{
     box-sizing: border-box;
     border: 0 none;
     margin: 0;
@@ -25,18 +26,62 @@ body {
 }
 
 .main {
-    flex: 1 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 4em 1em;
+    background-color: #f9f9f9;
+    margin: 2em auto;
+    max-width: 1200px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
 }
 
 .header, .footer {
     flex: 0 0 auto;
 }
 
+/* Navbar */
+
+.nav {
+    display: flex;
+    align-items: center;
+    background-color: #035a13;
+    padding: 1em 2em;
+    color: white;
+    justify-content: flex-end;
+}
+
+.nav a {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    padding: 0.5em 1em;
+    font-size: 1rem;
+}
+
+.nav a:hover {
+    background-color: #c5c5c5;
+}
+
+@media (max-width: 767px) {
+    .nav {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .nav a {
+        padding: 1em;
+        width: 100%;
+        text-align: center;
+    }
+}
+
 /* Header */
 
 .header, .site-header {
     display: flex;
-    justify-content: space-between;
+    background-color: rgb(139, 202, 139);
+    justify-content: center;
 }
 
 /* Title */
@@ -71,6 +116,8 @@ body {
     display: flex;
     justify-content: space-between;
     border-top: 1px solid #222;
+    background-color: rgb(139, 202, 139);
+    margin-top: auto;
 }
 
 .footer a {
@@ -90,7 +137,7 @@ body {
 }
 
 p, td, th, li, dd {
-    text-align: justify;
+    text-align: flex;
     overflow-wrap: break-word;
     word-wrap: break-word;
 }
@@ -98,6 +145,8 @@ p, td, th, li, dd {
 h1, h2, h3, h4, h5, h6 {
     margin-bottom: 0.6em;
     font-weight: bold;
+    padding: 20px;
+    text-align: flex;
 }
 
 img {
@@ -105,6 +154,7 @@ img {
     width: auto;
     height: auto;
     max-height: 300px;
+    padding: 20px;
 }
 
 /* BELOW ARE PREPARED STYLES FOR CODE/PRE/BLOCKQUOTE, FEEL FREE TO REMOVE IT  */
