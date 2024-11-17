@@ -1,0 +1,17 @@
+.footer {
+  display: flex;
+  flex-direction: row;
+  padding: 0.5em;
+  justify-content: space-between;
+  align-items: center;
+  background-color: $color-light-beige;
+  color: $color-deep-brown;
+  font-size: 1rem;
+  font-style: italic;
+
+  .social a {
+    text-decoration: none;
+    font-size: 3rem;
+    color: $color-dark-teal;
+  }
+}  
