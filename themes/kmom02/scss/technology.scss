@@ -1,0 +1,67 @@
+.landing-page {
+  display: grid;
+  gap: 1.96em;
+  margin-bottom: 1.96rem;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: auto;
+}
+
+.landing-page h1 {
+  grid-column: span 3;
+  justify-self: center;
+  text-align: center;
+}
+
+.box {
+  border: 2px solid $color-dark-teal;
+  padding: 1.96rem;
+  background-color: #fafafa;
+}
+
+.box:hover {
+  box-shadow: 10px 10px 5px 0 rgba(0, 0, 0, 0.2);
+}
+
+.technology {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: start;
+}
+
+.technology .article {
+  width: 60%;
+
+}
+
+.technology .menu {
+  width: 30%;
+}
+
+.landing-page .css {
+  grid-column: 1 / 2;
+}
+
+.landing-page .git {
+  grid-column: 2 / 4;
+}
+
+.landing-page .html {
+  grid-column: 1 / 3;
+}
+
+.landing-page .javascript {
+  grid-column: 3 / 3;
+}
+
+.landing-page .php {
+  grid-column: 1 / 4;
+}
+
+.landing-page .python {
+  grid-column: 1 / 2;
+}
+
+.landing-page .sqlite {
+  grid-column: 2 / 4;
+}
