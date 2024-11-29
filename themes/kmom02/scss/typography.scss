@@ -1,7 +1,7 @@
 body {
   line-height: 1.4;
   font-family: 'Faculty Glyphic', sans-serif;
-  color: $color-deep-brown;
+  color: $main-font-color;
 }
 
 img {
@@ -10,9 +10,19 @@ img {
   height: auto;
   max-height: 300px;
   padding: 20px;
+  filter: $img-filter;
 }
 
 p {
   font-size: 1.4em;
   margin-bottom: 1.96rem;
+}
+
+a {
+  color: $link-color;
+}
+
+a:hover {
+  color: $hover-link;
+  text-decoration: underline;
 }

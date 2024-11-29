@@ -16,7 +16,7 @@
 
 .nav a,
 .nav-toggle {
-  color: #333;
+  color: $main-font-color;
 }
 
 .nav-toggle {
@@ -38,19 +38,21 @@ body {
 }
 
 .main {
-  flex: 1 0 auto;
-  width: 100%;
-  max-width: 100%;
+  width: 70%;
+  max-width: 64rem;
   padding: 2em;
-  margin: 0 auto;
-  box-sizing: border-box;
+  margin: 2em auto;
+  background-color: $main-background-color;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  border-radius: 8px;
+  flex: 1;
 }
 
 .box {
   width: 100%;
   box-sizing: border-box;
   margin-bottom: 1.96rem;
-  background-color: #fafafa;
+  background-color: $box-color;
 }
 
 
@@ -98,5 +100,9 @@ body {
   .landing-page {
     display: flex;
     flex-direction: column;
+  }
+
+  .menu {
+    display: none;
   }
 }

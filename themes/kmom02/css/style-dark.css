@@ -6426,7 +6426,7 @@ template {
 body {
   line-height: 1.4;
   font-family: "Faculty Glyphic", sans-serif;
-  color: #333;
+  color: #d1d1d1;
 }
 
 img {
@@ -6435,7 +6435,7 @@ img {
   height: auto;
   max-height: 300px;
   padding: 20px;
-  filter: none;
+  filter: grayscale(100%);
 }
 
 p {
@@ -6444,11 +6444,11 @@ p {
 }
 
 a {
-  color: #3498db;
+  color: #8c00c8;
 }
 
 a:hover {
-  color: #e74c3c;
+  color: #015507;
   text-decoration: underline;
 }
 
@@ -6474,7 +6474,7 @@ body {
 .outer {
   display: flex;
   flex-direction: column;
-  background-color: #fff;
+  background-color: #727171;
   flex-grow: 1;
 }
 
@@ -6484,7 +6484,7 @@ body {
   padding: 2em;
   margin: 2em auto;
   flex-grow: 1;
-  background-color: #fff;
+  background-color: #333;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
   border-radius: 8px;
 }
@@ -6495,8 +6495,8 @@ body {
   padding: 0.5em;
   justify-content: space-between;
   align-items: center;
-  background-color: #dfedf2;
-  color: #333;
+  background-color: #262422;
+  color: #d1d1d1;
   font-size: 1rem;
   font-style: italic;
   margin-top: auto;
@@ -6504,7 +6504,7 @@ body {
 .footer .social a {
   text-decoration: none;
   font-size: 3rem;
-  color: #333;
+  color: #d1d1d1;
 }
 
 .header {
@@ -6513,7 +6513,7 @@ body {
   padding: 2em;
   justify-content: space-between;
   align-items: center;
-  background-color: #bfada8;
+  background-color: #515151;
 }
 
 .site-header {
@@ -6525,11 +6525,11 @@ body {
 
 .nav a {
   font-size: 2rem;
-  color: #a66f6f;
+  color: #1e1e1e;
 }
 
 .title a {
-  color: #333;
+  color: #d1d1d1;
 }
 
 .logo img {
@@ -6544,8 +6544,8 @@ blockquote {
   font-style: italic;
   margin-left: 1em;
   padding-left: 1em;
-  border-left: 0.5em solid #569ea6;
-  color: #a66f6f;
+  border-left: 0.5em solid #2d2b2b;
+  color: #1e1e1e;
 }
 
 code {
@@ -6592,9 +6592,9 @@ pre code {
 }
 
 .box {
-  border: 2px solid #a66f6f;
+  border: 2px solid #1e1e1e;
   padding: 1.96rem;
-  background-color: #fff;
+  background-color: #919090;
 }
 
 .box:hover {
@@ -6659,9 +6659,9 @@ pre code {
 }
 
 .box {
-  border: 2px solid #a66f6f;
+  border: 2px solid #1e1e1e;
   padding: 1.96rem;
-  background-color: #fff;
+  background-color: #727171;
 }
 
 .box:hover {
@@ -6728,7 +6728,7 @@ table td {
 
 .nav a,
 .nav-toggle {
-  color: #333;
+  color: #d1d1d1;
 }
 
 .nav-toggle {
@@ -6754,7 +6754,7 @@ body {
   max-width: 64rem;
   padding: 2em;
   margin: 2em auto;
-  background-color: #fff;
+  background-color: #333;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
   border-radius: 8px;
   flex: 1;
@@ -6764,7 +6764,7 @@ body {
   width: 100%;
   box-sizing: border-box;
   margin-bottom: 1.96rem;
-  background-color: #fff;
+  background-color: #919090;
 }
 
 @media (max-width: 767px) {

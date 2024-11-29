@@ -4,7 +4,7 @@
   padding: 2em;
   justify-content: space-between;
   align-items: center;
-  background-color: $color-soft-blue;
+  background-color: $color-blue-grey;
 }
 
 .site-header {
@@ -16,11 +16,11 @@
 
 .nav a {
   font-size: 2rem;
-  color: $color-dark-teal;
+  color: $color-soft-coral;
 }
 
 .title a {
-  color: #000;
+  color: $main-font-color;
 }
 
 .logo img {
