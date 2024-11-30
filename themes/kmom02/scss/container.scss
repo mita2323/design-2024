@@ -1,0 +1,36 @@
+html,
+body {
+  height: 100%;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+}
+
+.main {
+  flex: 0 0 auto;
+}
+
+.header,
+.footer {
+  flex: 0 0 auto;
+}
+
+.outer {
+  display: flex;
+  flex-direction: column;
+  background-color: $outer-background-color;
+  flex-grow: 1;
+}
+
+.main {
+  width: 70%;
+  max-width: 64rem;
+  padding: 2em;
+  margin: 2em auto;
+  flex-grow: 1;
+  background-color: $main-background-color;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  border-radius: 8px;
+}

@@ -1,0 +1,42 @@
+.landing-page {
+  display: grid;
+  gap: 1.96em;
+  margin-bottom: 1.96rem;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: auto;
+}
+
+.landing-page h1 {
+  grid-column: span 3;
+  justify-self: center;
+  text-align: center;
+}
+
+.box {
+  border: 2px solid $color-soft-coral;
+  padding: 1.96rem;
+  background-color: $outer-background-color;
+}
+
+.box:hover {
+  box-shadow: 10px 10px 5px 0 rgba(0, 0, 0, 0.2);
+}
+
+.rapport {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: start;
+}
+
+.landing-page .colors-01 {
+  grid-column: 1 / 4;
+}
+
+.landing-page .load-02 {
+  grid-column: 1 / 4;
+}
+
+.landing-page .design-principles-03 {
+  grid-column: 1 / 4;
+}

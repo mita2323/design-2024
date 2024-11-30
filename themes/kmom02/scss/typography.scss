@@ -1,0 +1,28 @@
+body {
+  line-height: 1.4;
+  font-family: 'Faculty Glyphic', sans-serif;
+  color: $main-font-color;
+}
+
+img {
+  max-width: 100%;
+  width: auto;
+  height: auto;
+  max-height: 300px;
+  padding: 20px;
+  filter: $img-filter;
+}
+
+p {
+  font-size: 1.4em;
+  margin-bottom: 1.96rem;
+}
+
+a {
+  color: $link-color;
+}
+
+a:hover {
+  color: $hover-link;
+  text-decoration: underline;
+}
