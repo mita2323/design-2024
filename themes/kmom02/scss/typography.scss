@@ -5,12 +5,9 @@ body {
 }
 
 img {
-  max-width: 100%;
-  width: auto;
-  height: auto;
-  max-height: 300px;
-  padding: 20px;
   filter: $img-filter;
+  width: 600px;
+  height: auto;
 }
 
 p {

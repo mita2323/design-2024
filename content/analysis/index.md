@@ -4,11 +4,14 @@ Description: This is my analysis page.
 Template: analysis
 Techs:
     - name: Färg
-      class: colors-01
+      class: colors
+      url: 01_colors
     - name: Laddningstider
-      class: load-02
+      class: load
+      url: 02_load
     - name: Design principer
-      class: design-principles-03
+      class: design-principles
+      url: 03_design_principles
 ---
 
 Analysis

@@ -1,0 +1,51 @@
+img,
+embed,
+object,
+video {
+  max-width: 100%;
+}
+
+.gallery-landing {
+  display: grid;
+  gap: 1.96em;
+  margin-bottom: 1.96rem;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: auto;
+}
+
+.gallery-header h1 {
+  text-align: center;
+  font-size: 2rem;
+  margin-bottom: 1em;
+  align-self: start;
+}
+
+.gallery {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: start;
+}
+
+.gallery-landing img {
+  border-radius: 8px;
+  grid-column: auto;
+}
+
+.embed-container {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden;
+  max-width: 100%;
+}
+
+.embed-container iframe,
+.embed-container object,
+.embed-container embed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}

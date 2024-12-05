@@ -29,14 +29,18 @@
   align-items: start;
 }
 
-.landing-page .colors-01 {
+.landing-page .colors {
   grid-column: 1 / 4;
 }
 
-.landing-page .load-02 {
+.landing-page .load {
   grid-column: 1 / 4;
 }
 
-.landing-page .design-principles-03 {
+.landing-page .design-principles {
   grid-column: 1 / 4;
+}
+
+.excel-container {
+  padding: 10px;
 }

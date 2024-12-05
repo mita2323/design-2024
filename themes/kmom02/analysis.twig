@@ -10,7 +10,9 @@
 
                 {% for analysis in meta.Techs %}
                     <div class="box {{ analysis.class }}">
-                        <a href="{{ base_url }}/analysis/{{ analysis.class }}"><h1>{{ analysis.name }}</h1></a>
+                        <a href="{{ base_url }}/analysis/{{ analysis.url }}">
+                            <h1>{{ analysis.name }}</h1>
+                        </a>
                     </div>
                 {% endfor %}
             </div>
