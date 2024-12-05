@@ -3,23 +3,23 @@ Title: Gallery
 Description: This is our gallery page.
 Template: gallery
 images:
-  - src: "assets/img/img1.jpg"
+  - src: "image/img1.jpg"
     alt: "image 1"
-  - src: "assets/img/img2.jpg"
+  - src: "image/img2.jpg"
     alt: "image 2"
-  - src: "assets/img/img3.jpg"
+  - src: "image/img3.jpg"
     alt: "image 3"
-  - src: "assets/img/img4.jpg"
+  - src: "image/img4.jpg"
     alt: "image 4"
-  - src: "assets/img/img5.jpg"
+  - src: "image/img5.jpg"
     alt: "image 5"
-  - src: "assets/img/img6.jpg"
+  - src: "image/img6.jpg"
     alt: "image 6"
-  - src: "assets/img/img7.jpg"
+  - src: "image/img7.jpg"
     alt: "image 7"
-  - src: "assets/img/img8.jpg"
+  - src: "image/img8.jpg"
     alt: "image 8"
-  - src: "assets/img/img9.jpg"
+  - src: "image/img9.jpg"
     alt: "image 9"
 ---
 

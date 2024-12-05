@@ -13,9 +13,9 @@
                 {% for image in meta.images %}
                     <a href="{{ image.src }}" class="image">
                         <picture class="image">
-                            <source media="(min-width: 668px)" srcset="{{ image.src }}?w=960&q=90">
-                            <source media="(max-width: 376px)" srcset="{{ image.src }}?w=667&?w=300&h=150&crop-to-fit&q=70">
-                            <img src="{{ image.src }}?w=375&h=150&crop-to-fit&q=70" alt="{{ image.alt }}">
+                            <source media="(min-width: 668px)" srcset="{{ image.src }}?w=960&aro&q=90">
+                            <source media="(max-width: 376px)" srcset="{{ image.src }}?w=667&?w=300&aro&h=150&crop-to-fit&q=70">
+                            <img src="{{ image.src }}?w=375&aro&h=150&crop-to-fit&q=70" alt="{{ image.alt }}">
                         </picture>
                     </a>
                 {% endfor %}

@@ -29,7 +29,7 @@ Resultat
 ![SVT Play](../assets/img/svtplay.png)
 
 <div class="excel-container">
-    <iframe width="650" height="200" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRlWpLgMhWmGlmUJgvPYRs7z2bOQ1hUyc9IM5a5HVuW0X3PMblbJIB8vb2qnRZvBeRUEaIXUzc8OqVB/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false">
+    <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRlWpLgMhWmGlmUJgvPYRs7z2bOQ1hUyc9IM5a5HVuW0X3PMblbJIB8vb2qnRZvBeRUEaIXUzc8OqVB/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false">
     </iframe>
 </div>
 
@@ -46,7 +46,7 @@ SVT Plays hemsida får bättre poäng på desktop än på mobilen. Poängen på 
 ![SAS](../assets/img/sas.png)
 
 <div class="excel-container">
-    <iframe width="650" height="200" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRlWpLgMhWmGlmUJgvPYRs7z2bOQ1hUyc9IM5a5HVuW0X3PMblbJIB8vb2qnRZvBeRUEaIXUzc8OqVB/pubhtml?gid=1915103166&amp;single=true&amp;widget=true&amp;headers=false">
+    <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRlWpLgMhWmGlmUJgvPYRs7z2bOQ1hUyc9IM5a5HVuW0X3PMblbJIB8vb2qnRZvBeRUEaIXUzc8OqVB/pubhtml?gid=1915103166&amp;single=true&amp;widget=true&amp;headers=false">
     </iframe>
 </div>
 
@@ -63,7 +63,7 @@ På SAS hemsidan får desktop lite bättre poäng än på mobil, dock får check
 ![Booking.com](../assets/img/booking.png)
 
 <div class="excel-container">
-    <iframe width="650" height="200" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRlWpLgMhWmGlmUJgvPYRs7z2bOQ1hUyc9IM5a5HVuW0X3PMblbJIB8vb2qnRZvBeRUEaIXUzc8OqVB/pubhtml?gid=634917972&amp;single=true&amp;widget=true&amp;headers=false">
+    <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRlWpLgMhWmGlmUJgvPYRs7z2bOQ1hUyc9IM5a5HVuW0X3PMblbJIB8vb2qnRZvBeRUEaIXUzc8OqVB/pubhtml?gid=634917972&amp;single=true&amp;widget=true&amp;headers=false">
     </iframe>
 </div>
 
