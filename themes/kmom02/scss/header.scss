@@ -1,22 +1,18 @@
 .header {
-  display: flex;
-  flex-direction: row;
-  padding: 2em;
-  justify-content: space-between;
-  align-items: center;
+  z-index: 1000;
+  flex: 0 0 auto;
   background-color: $color-blue-grey;
 }
 
 .site-header {
   display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-  align-items: center;
+  justify-content: center;
 }
 
 .nav a {
   font-size: 2rem;
   color: $color-soft-coral;
+  font-family: 'Montserrat Alternates', sans-serif;
 }
 
 .title a {
@@ -29,4 +25,39 @@
   height: auto;
   max-height: 150px;
   padding: 20px;
+}
+
+.nav {
+  background-color: $color-blue-grey;
+  padding: 1em 2em;
+  border-top: 1px solid $color-soft-coral;
+  border-bottom: 1px solid $color-soft-coral;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.nav ul {
+  display: flex;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.nav ul li {
+  margin: 0 1em;
+}
+
+.nav ul li a {
+  text-decoration: none;
+  font-size: 1.5rem;
+  color: $nav-text;
+}
+
+.nav ul li a:hover {
+  color: $hover-color;
+}
+
+.nav ul .active a {
+  font-weight: bold;
 }

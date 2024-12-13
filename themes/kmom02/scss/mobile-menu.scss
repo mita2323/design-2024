@@ -92,6 +92,10 @@ body {
     padding: 1rem;
   }
 
+  .outer {
+    flex-direction: row;
+  }
+
   .box {
     width: 100%;
     margin-bottom: 1rem;
@@ -122,8 +126,10 @@ body {
     width: 100%;
   }
 
-  .embed-container {
-    
+  .nav {
+    padding: 0;
+    border-top: 0;
+    border-bottom: 0;
   }
 
 }

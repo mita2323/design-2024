@@ -29,12 +29,14 @@ Resultat
 ![SVT Play](../assets/img/svtplay.png)
 
 <div class="excel-container">
-    <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRlWpLgMhWmGlmUJgvPYRs7z2bOQ1hUyc9IM5a5HVuW0X3PMblbJIB8vb2qnRZvBeRUEaIXUzc8OqVB/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false">
+    <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRlWpLgMhWmGlmUJgvPYRs7z2bOQ1hUyc9IM5a5HVuW0X3PMblbJIB8vb2qnRZvBeRUEaIXUzc8OqVB/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" title="Prestanda 1">>
     </iframe>
 </div>
 
 - [Startsidan](https://www.sas.se)
+
 - [Programsidan](https://www.svtplay.se/program)
+
 - [Kanalsidan](https://www.svtplay.se/kanaler)
 
 SVT Play får inte godkänt av PageSpeed Insights på mobil men får godkänd på desktop.
@@ -46,12 +48,14 @@ SVT Plays hemsida får bättre poäng på desktop än på mobilen. Poängen på 
 ![SAS](../assets/img/sas.png)
 
 <div class="excel-container">
-    <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRlWpLgMhWmGlmUJgvPYRs7z2bOQ1hUyc9IM5a5HVuW0X3PMblbJIB8vb2qnRZvBeRUEaIXUzc8OqVB/pubhtml?gid=1915103166&amp;single=true&amp;widget=true&amp;headers=false">
+    <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRlWpLgMhWmGlmUJgvPYRs7z2bOQ1hUyc9IM5a5HVuW0X3PMblbJIB8vb2qnRZvBeRUEaIXUzc8OqVB/pubhtml?gid=1915103166&amp;single=true&amp;widget=true&amp;headers=false" title="Prestanda 2">
     </iframe>
 </div>
 
 - [Startsidan](https://www.sas.se/)
+
 - [Login-sidan](https://auth.flysas.com/u/login?state=hKFo2SBKeHZJbzYyQlRqY2dIRXVrRGFoZnk0bGpxT1JmSm1rcaFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIG5JV3lnYWFBQ3dyRDhIVy1XcEYwLTVod2ZNRUEzWjdQo2NpZNkgZmNvN2doYml5N1lsaGhGaWZnOHAweWNjQm9JY3RKYko&ui_locales=sv)
+
 - [Checkin-sidan](https://www.sas.se/checkin/)
 
 SAS får godkänt av PageSpeed Insights både på mobil och desktop.
@@ -63,12 +67,14 @@ På SAS hemsidan får desktop lite bättre poäng än på mobil, dock får check
 ![Booking.com](../assets/img/booking.png)
 
 <div class="excel-container">
-    <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRlWpLgMhWmGlmUJgvPYRs7z2bOQ1hUyc9IM5a5HVuW0X3PMblbJIB8vb2qnRZvBeRUEaIXUzc8OqVB/pubhtml?gid=634917972&amp;single=true&amp;widget=true&amp;headers=false">
+    <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRlWpLgMhWmGlmUJgvPYRs7z2bOQ1hUyc9IM5a5HVuW0X3PMblbJIB8vb2qnRZvBeRUEaIXUzc8OqVB/pubhtml?gid=634917972&amp;single=true&amp;widget=true&amp;headers=false" title="Prestanda 3">>
     </iframe>
 </div>
 
 - [Startsidan](https://www.booking.com/)
+
 - [Login-sidan](https://account.booking.com/sign-in?op_token=EgVvYXV0aCL6AgoUdk8xS2Jsazd4WDl0VW4yY3BaTFMSCWF1dGhvcml6ZRo1aHR0cHM6Ly9zZWN1cmUuYm9va2luZy5jb20vbG9naW4uaHRtbD9vcD1vYXV0aF9yZXR1cm4qmQJVck1CRXRlQWJDc1BRS1pQMUNDaUlKOGR0c0Yxa0tkRzBNMnhrZHZfdktNZXA4a2c4N2JmTXBBMkxEMFpiS0tYYUtMQ0hRUW5kcEdBM3hqd2JMZGpNR1RzTllmUEJoR0ZJc2IxaTJXNlNKOV9DaHJoUTlyc1d5ZmtWQkR1d0JDT0J3TEdpV2MxNWpPS29lSzM0TE5rbFNRdXd6bEpsb0RFNFNrM0gyVnFYX2RwajlmNEljSlloXzF2RV9XUmNBN0Zubl9DRmJCamxhWFh6NUwwdXc4R3J5NXVUbnh6OWdGQkZUN0F1SGp2ZFdyUjNKVkJDWDA9KmV5SnBaQ0k2SW5SeVlYWmxiR3hsY2w5b1pXRmtaWElpZlE9PUIEY29kZSoyCI7IEjCQ2ZPUjbUnOgBCAFjE0I7EuTKSARB0cmF2ZWxsZXJfaGVhZGVymgEFaW5kZXg)
+
 - [Boka flyg-sidan](https://www.booking.com/flights/index.en-us.html?adplat=www-index-web_shell_header-flight-missing_creative-Gb4r72eZQWGF5rT3YFetP&aid=304142&client_name=b-web-shell-bff&etStateBlob=EAUIuf7ZGc3s3EJq4eZMNwZ4YCCov-XwKRL1Fe5bGnpvKEL8Q-Q-J6-zVp15u5uFpIwquyhKpY5Q&distribution_id=Gb4r72eZQWGF5rT3YFetP)
 
 Booking.com får inte godkänt av PageSpeed Insights på mobile eller desktop.

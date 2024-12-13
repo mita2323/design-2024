@@ -12,10 +12,14 @@
   text-align: center;
 }
 
+.landing-page a {
+  color: $link-color2;
+}
+
 .box {
   border: 2px solid $color-soft-coral;
   padding: 1.96rem;
-  background-color: $outer-background-color;
+  background-color: $box-color;
 }
 
 .box:hover {
